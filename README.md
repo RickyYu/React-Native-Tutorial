@@ -25,7 +25,7 @@
 $ react-native init FirstApp
 $ cd FirstApp
 $ react-native run-ios
-$react-native run-android
+$ react-native run-android
 ```
 
 
