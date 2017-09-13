@@ -28,11 +28,11 @@ $ react-native run-ios
 $ react-native run-android
 ```
 
-
 ## 目录
 
 1. [Day 01](syntax.md)
 2. [Day 02](text.md)
 3. [Day 03](image.md)
+4. [Day 04](image.md)
 
 &copy; 2017，Ricky
