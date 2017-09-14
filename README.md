@@ -35,5 +35,6 @@ $ react-native run-android
 3. [Day 03](image.md)
 4. [Day 04](image.md)
 5. [Day 05](temple.md)
+5. [Day 06](sample.md)
 
 &copy; 2017，Ricky
